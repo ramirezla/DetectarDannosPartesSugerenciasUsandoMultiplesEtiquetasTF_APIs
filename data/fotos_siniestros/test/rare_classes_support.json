@@ -1,0 +1,100 @@
+{
+  "rare_partes": [
+    32,
+    19,
+    39
+  ],
+  "rare_partes_names": [
+    "Parabrisas trasero",
+    "Luz trasera derecho",
+    "Rejilla, parrilla"
+  ],
+  "rare_dannos": [],
+  "rare_dannos_names": [],
+  "examples": {
+    "partes": [
+      {
+        "Imagen": "1102.jpg",
+        "dannos": [
+          3,
+          6,
+          6,
+          6
+        ],
+        "partes": [
+          33,
+          32,
+          9,
+          11
+        ],
+        "sugerencias": [
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "Imagen": "134.jpg",
+        "dannos": [
+          5
+        ],
+        "partes": [
+          32
+        ],
+        "sugerencias": [
+          1
+        ]
+      },
+      {
+        "Imagen": "19.jpg",
+        "dannos": [
+          6
+        ],
+        "partes": [
+          32
+        ],
+        "sugerencias": [
+          2
+        ]
+      },
+      {
+        "Imagen": "196.jpg",
+        "dannos": [
+          2,
+          4,
+          4
+        ],
+        "partes": [
+          3,
+          33,
+          39
+        ],
+        "sugerencias": [
+          1,
+          2,
+          2
+        ]
+      },
+      {
+        "Imagen": "339.jpg",
+        "dannos": [
+          1,
+          2,
+          6
+        ],
+        "partes": [
+          13,
+          34,
+          19
+        ],
+        "sugerencias": [
+          1,
+          2,
+          2
+        ]
+      }
+    ],
+    "dannos": []
+  }
+}
