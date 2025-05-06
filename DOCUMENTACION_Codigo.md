@@ -9,7 +9,7 @@
 - **Descripción:** Limpia y estandariza el texto para comparación.
 - **Parámetros:**
   - `texto` (str): Texto a limpiar.
-- **Retorna:** Texto en minúsculas y sin espacios al inicio o final. Si el texto es NaN, retorna cadena vacía.
+- **Retorna:** Texto en minúsculas y sin espacios al inicio o final. Si el texto es NaN (Nulo), retorna cadena vacía.
 - **Uso:** Se utiliza para normalizar cadenas antes de compararlas o mapearlas.
 
 ---
